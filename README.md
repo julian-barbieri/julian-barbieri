@@ -40,6 +40,10 @@ Me apasiona traducir datos crudos en **modelos, insights y visualizaciones accio
 
 ## 📊 Proyectos Destacados
 
+### 📌 Sistema de Recomendación para E-commerce
+Sistema de recomendación de productos orientado a mejorar la experiencia de usuario y la conversión en entornos de e-commerce.
+🔗 https://github.com/julian-barbieri/insight-commerce-recsys
+
 ### 📌 ML y API para Predicción de Abandonos  
 **Pipeline MLOps end-to-end** con API REST para inferencias, optimización con Optuna y monitoreo de data drift.  
 🔗 github.com/julian-barbieri/Henry-Proyecto5-ML-Nube
@@ -48,7 +52,7 @@ Me apasiona traducir datos crudos en **modelos, insights y visualizaciones accio
 Modelo supervisado con clustering para segmentación y estrategias enfocadas en retención.  
 🔗 github.com/julian-barbieri/Henry-Proyecto4-Machine-Learning
 
-*Estos proyectos muestran mi capacidad para integrar modelos, APIs y pipelines productivos trabajando con datos reales.*
+*Estos proyectos muestran mi capacidad para integrar modelos, APIs y pipelines productivos trabajando con datos reales y sinteticos.*
 
 ---
 
@@ -63,7 +67,7 @@ Modelo supervisado con clustering para segmentación y estrategias enfocadas en 
 
 ¿Querés trabajar juntos o conversar sobre datos y ML?  
 📧 julianbarbieri01@gmail.com  
-🔗 linkedin.com/in/julianbarbieri/
+🔗 https://www.linkedin.com/in/julianbarbieri/
 📞 +5491123170824
 
 ---
