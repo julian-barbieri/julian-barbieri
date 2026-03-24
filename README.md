@@ -46,13 +46,13 @@ Sistema de recomendación de productos orientado a mejorar la experiencia de usu
 
 ### 📌 ML y API para Predicción de Abandonos  
 **Pipeline MLOps end-to-end** con API REST para inferencias, optimización con Optuna y monitoreo de data drift.  
-🔗 github.com/julian-barbieri/Henry-Proyecto5-ML-Nube
+🔗 https://github.com/julian-barbieri/Henry-Proyecto5-ML-Nube
 
 ### 📌 Sistema de Predicción de Churn  
 Modelo supervisado con clustering para segmentación y estrategias enfocadas en retención.  
-🔗 github.com/julian-barbieri/Henry-Proyecto4-Machine-Learning
+🔗 https://github.com/julian-barbieri/Henry-Proyecto4-Machine-Learning
 
-*Estos proyectos muestran mi capacidad para integrar modelos, APIs y pipelines productivos trabajando con datos reales y sinteticos.*
+*Estos proyectos muestran mi capacidad para integrar modelos, APIs y pipelines productivos trabajando con datos reales o sinteticos.*
 
 ---
 
