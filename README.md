@@ -43,10 +43,12 @@ Me apasiona traducir datos crudos en **modelos, insights y visualizaciones accio
 ### 📌 Sistema de Recomendación para E-commerce
 Sistema de recomendación de productos orientado a mejorar la experiencia de usuario y la conversión en entornos de e-commerce.
 🔗 https://github.com/julian-barbieri/insight-commerce-recsys
+Demo: https://insight-commerce.streamlit.app/
 
 ### 📌 ML y API para Predicción de Abandonos  
 **Pipeline MLOps end-to-end** con API REST para inferencias, optimización con Optuna y monitoreo de data drift.  
 🔗 https://github.com/julian-barbieri/Henry-Proyecto5-ML-Nube
+Demo: https://henry-proyecto5-ml-nube-streamlit.onrender.com/
 
 ### 📌 Sistema de Predicción de Churn  
 Modelo supervisado con clustering para segmentación y estrategias enfocadas en retención.  
