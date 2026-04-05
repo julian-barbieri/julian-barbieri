@@ -43,7 +43,7 @@ Me apasiona traducir datos crudos en **modelos, insights y visualizaciones accio
 ### 📌 Sistema de Recomendación para E-commerce
 Sistema de recomendación de productos orientado a mejorar la experiencia de usuario y la conversión en entornos de e-commerce.
 🔗 https://github.com/julian-barbieri/insight-commerce-recsys
-Demo: https://insight-commerce.streamlit.app/
+Demo: https://insight-commerce.streamlit.app/ (Solicitar demo para su prediccion)
 
 ### 📌 ML y API para Predicción de Abandonos  
 **Pipeline MLOps end-to-end** con API REST para inferencias, optimización con Optuna y monitoreo de data drift.  
