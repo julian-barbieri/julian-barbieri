@@ -1,5 +1,5 @@
 # 👋 ¡Hola, soy Julián!
-[![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](./README.md)
+[![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](./README.en.md)
 
 **Machine Learning Engineer | Data Scientist | Python | SQL | MLOps | BI**
 
