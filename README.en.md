@@ -7,7 +7,7 @@
 🔗 LinkedIn: https://www.linkedin.com/in/julianbarbieri/
 📧 Email: julianbarbieri01@gmail.com
 💻 GitHub: https://github.com/julian-barbieri
-🌐 Portfolio: https://portfolio-alpha-mauve-64.vercel.app
+🌐 Portfolio: https://portfolio-julian-barbieri.vercel.app/
 
 ---
 
@@ -126,7 +126,7 @@ Python ETL pipeline that transforms transactional data into a normalized 7-table
 Want to work together or talk about data, ML, and generative AI?
 📧 julianbarbieri01@gmail.com
 🔗 https://www.linkedin.com/in/julianbarbieri/
-🌐 https://portfolio-alpha-mauve-64.vercel.app
+🌐 https://portfolio-julian-barbieri.vercel.app/
 📞 +5491123170824
 
 ---
