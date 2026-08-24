@@ -80,7 +80,7 @@ I come from a background as a Functional Analyst in Fintech and Consumer Goods, 
 ### 📌 Academic Risk Prediction
 Full-stack academic management platform (React, Express, FastAPI) with 3 independent microservices, containerized with Docker and deployed on Render/Vercel. Includes 3 ML models (GradientBoosting) predicting dropout, course failure, and exam scores (**ROC-AUC 0.92 / F1 0.84**), explainability with **SHAP**, suggestions generated via the **Gemini** API, role-based auth (Google OAuth + local), and CI/CD with GitHub Actions running **66 automated tests**.
 🔗 https://github.com/julian-barbieri/academic-risk-prediction
-🌐 Demo: https://proyecto-final-brown-kappa.vercel.app
+🌐 Demo: https://pf-frontend-1cdz.onrender.com/
 
 ### 📌 Next Basket Recommendation System
 Next-basket product recommendation system based on historical user behavior (LightGBM, CatBoost, Optuna), with a FastAPI inference API for real-time and batch processing, containerized with Docker and deployed on AWS ECR. Data pipeline optimization that reduced processing and training time by **~70%**.
